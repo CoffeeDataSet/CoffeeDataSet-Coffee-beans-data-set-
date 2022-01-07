@@ -3,4 +3,4 @@ It is a Coffee beans DataSet taken from different sources. It has been used to c
 
 We hope these images could help someone; for us were difficult to obtain a large number of images of coffee beans.
 
-The Dataset was divided in two files: DataSet1 and DataSet2.
+The Dataset was divided in two files: DataSet and DataSet2.
